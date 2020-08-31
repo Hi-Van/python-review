@@ -45,3 +45,6 @@ print(index_string.index("d"))
 #replace characters within a string
 replace_string = "replace this"
 print(replace_string.replace("this", "that"))
+
+#strings to decimal value
+print(float("5"))
