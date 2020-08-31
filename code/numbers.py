@@ -47,7 +47,7 @@ print(max(1, 2))
 #minimum of multiple numbers
 print(min(1, 2))
 
-#rounding a deximal to integer
+#rounding a decimal to integer
 print(round(4.6))
 
 #importing more math functions

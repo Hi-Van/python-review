@@ -1,4 +1,4 @@
-#concatenating input variables wiht mad libs
+#concatenating input variables with mad libs
 first = input("input first word: ")
 second = input("input second word: ")
 third = input("input third word: ")
