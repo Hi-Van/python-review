@@ -49,5 +49,5 @@ print(replace_string.replace("this", "that"))
 #strings to decimal value
 print(float("5"))
 
-#strings to a integer value
+#strings to integer value
 print(int("5"))

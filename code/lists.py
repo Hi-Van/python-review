@@ -39,7 +39,7 @@ pop_list = [1, 2, 3, 4]
 pop_list.pop()
 print(pop_list)
 
-#find index of a item in the list
+#find index of an item in the list
 find_list = [1, 2, 3, 4]
 print(find_list.index(3))
 

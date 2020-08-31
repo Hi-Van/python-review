@@ -5,7 +5,6 @@ character_name = "Van"
 print("There was once a man named " + character_name + ", he was " + character_age)
 
 # without variables
-
 print("There was once a man named Van, he was 18")
 
 # variable examples
