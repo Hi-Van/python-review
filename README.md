@@ -50,7 +50,7 @@ Table of Contents
       * [concatenating input](#concatenating-input)
    * [Lists](#lists)
       * [declaring a list](#declaring-a-list)
-      * [indexing items in a list](#indexing items-in-a-list)
+      * [indexing items in a list](#indexing-items-in-a-list)
       * [indexing from the back](#indexing-from-the-back)
       * [sublists](#sublists)
       * [modifying an item in a list](#modifying-an-item-in-a-list)
@@ -100,7 +100,7 @@ Table of Contents
 
 # Description
 
-A review of basic python syntax based off of FreeCodeCamp's Youtube Tutorial. Within this repo, will mostly be code used during the [tutorial](https://www.youtube.com/watch?v=rfscVS0vtbw). The format of this document will also follow similarly the time stamps.
+A review of basic python syntax based off of FreeCodeCamp's Youtube Tutorial. Within this repo, will mostly be code used during the [tutorial](https://www.youtube.com/watch?v=rfscVS0vtbw). The format of this document will also follow similarly to the time stamps.
 
 # Hello World
 
