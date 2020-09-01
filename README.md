@@ -833,6 +833,8 @@ class student:
         self.name = name
         self.major = major
         self.gpa = gpa
+
+Alex = student("Alex", "Computer Science", 3.1)
 ```
 
 ### class functions
